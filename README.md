@@ -2,13 +2,13 @@
 
 **Classificação de Imagens com Rede Neural Convolucional (CNN)**
 
-- Grupo: 
+#Grupo: 
 | RA |GitHub | 
 |-|-|
-|2404245|[Carlos José Fernández Porto](https://github.com/Trasn0/) |
+|2404245|[Carlos José Fernández Porto](https://github.com/Trasn0/Projeto-Cifar-10) |
 |2400632|[Audrey Mayumi Narimatsu](https://github.com/AudreyNarimatsu/) |
 |2404084|[Guilherme Martins Silva](https://github.com/GuilhermeMartinsSilva/) |
-|2403783|[Mauricio Antonio dos Santos Souza](https://github.com/MAURICIOASSOUZA/) |
+|2403783|[Mauricio Antonio dos Santos Souza](https://github.com/MAURICIOASSOUZA/Projeto-Cifar-10) |
 
 
 ## Descrição do Problema 
