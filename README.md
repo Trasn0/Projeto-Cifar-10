@@ -74,7 +74,7 @@ A acurácia final no conjunto de teste também é calculada e exibida.
 ## Resultados 
    - **Acurácia no Teste**: 76.63% ✅ (superou o objetivo de 75%)
    - Gráfico de Desempenho:
-    ![Acurácia de Treino vs. Teste](grafico_acuracia.png)
+![Acurácia de Treino vs. Teste](grafico_acuracia.png)
     
 ## Conclusão 
 O modelo de CNN desenvolvido demonstrou um bom desempenho na tarefa de classificação das imagens do dataset **CIFAR-10**. Com base nos resultados obtidos: 
